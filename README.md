@@ -26,6 +26,6 @@ This very much can be considered overkill but the out of the box Nextj pipelines
 
 ### Stack and Tool Chain
 
-<img src="https://skillicons.dev/icons?i=nextjs,netlify"/>
+<img style="margin-top: 2rem" src="https://skillicons.dev/icons?i=github,nextjs,typescript,netlify"/>
 
 </div>
