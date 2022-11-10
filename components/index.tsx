@@ -9,6 +9,8 @@
 /**
  * molecules
  */
+export { default as IterationCount } from 'components/molecules/IterationCount'
+export { default as LanguageSelect } from 'components/molecules/LanguageSelect'
 
 /**
  * organisms
