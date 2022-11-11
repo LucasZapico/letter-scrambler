@@ -10,4 +10,10 @@ function App({ Component, pageProps }: AppProps): React.ReactNode {
     </ChakraProvider>
   )
 }
+
+/**
+ * add cookied theme
+ * https://chakra-ui-git-fix-typescript-autocomplete.chakra-ui.vercel.app/docs/features/color-mode
+ */
+
 export default App
