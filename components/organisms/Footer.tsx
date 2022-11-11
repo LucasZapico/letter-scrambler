@@ -9,7 +9,6 @@ const Footer = () => {
   return (
     <Box
       borderWidth="1px"
-      borderColor="red.100"
       minH="500px"
       display={{ base: 'flex' }}
       flexDir="column"

@@ -7,7 +7,6 @@ const SubFooter = () => {
   return (
     <Box
       borderWidth="1px"
-      borderColor="red.100"
       display={{ base: 'flex' }}
       alignItems="center"
       paddingX="1rem"
